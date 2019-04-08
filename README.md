@@ -10,9 +10,9 @@
 
 ## Установка
 
-1) `composer require arrilot/bitrix-migrations`
+1) `composer require e-krivonosov/bitrix-migrations`
 
-2) `cp vendor/arrilot/bitrix-migrations/migrator migrator` - копируем исполняемый файл в удобное место.
+2) `cp vendor/e-krivonosov/bitrix-migrations/migrator migrator` - копируем исполняемый файл в удобное место.
 
 3) заходим внутрь и удостоверяемся что задается правильный $_SERVER['DOCUMENT_ROOT']. Меняем настройки если нужно
 
